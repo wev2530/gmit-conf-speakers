@@ -1149,7 +1149,7 @@ button {
   display: block;
   position: relative;
   height: 21px;
-  margin: 1px 0 0 234.958px;
+  margin: 1px 0 0 245.958px;
   color: #ffffff;
   font-family: Inter, var(--default-font-family);
   font-size: 15.071879386901855px;
@@ -1160,6 +1160,7 @@ button {
   white-space: nowrap;
   letter-spacing: -0.53px;
   z-index: 115;
+  width: fit-content;
 }
 .group-30 {
   position: absolute;
